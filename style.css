@@ -43,8 +43,8 @@ body,html{
     box-shadow: 0 4px 8px rgba(0,0,0, 0.1);
 }
 .asociados{
-    padding: 10px;
     border: 2px solid #25aff9;
+    padding: 10px;
     margin-bottom: 40px;
     background-color: #ade2ff;
     border-radius: 20px;

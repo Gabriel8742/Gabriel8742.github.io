@@ -1,0 +1,124 @@
+body,html{
+    font-family: Arial, Helvetica, sans-serif;
+    height: 120%;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: url(fondo.jpg) center center;
+    background-size: cover;
+}
+.inicio{
+    position: fixed;
+    text-align: left;
+    top: 0;
+    left: 0;
+    right: 0;
+    padding: 10px;
+    background-color: #25aff9;
+    box-shadow: 0 4px 8px rgba(0,0,0, 0.1);
+}
+.cuerpo{
+    display: flex;
+    flex-direction: column;
+    
+    
+}
+.sobremi{
+    margin-top: 40px;
+    margin-bottom: 40px;
+    background-color: #ade2ff;
+    border-radius: 20px;
+    box-shadow: 0 4px 8px rgba(0,0,0, 0.1);
+
+}
+.carrera{
+    margin-bottom: 40px;
+    background-color: #ade2ff;
+    border-radius: 20px;
+    box-shadow: 0 4px 8px rgba(0,0,0, 0.1);
+}
+.asociados{
+    margin-bottom: 40px;
+    background-color: #ade2ff;
+    border-radius: 20px;
+    box-shadow: 0 4px 8px rgba(0,0,0, 0.1);
+}
+.contacto{
+    margin-bottom: 90px;
+    background-color: #ade2ff;
+    border-radius: 20px;
+    box-shadow: 0 4px 8px rgba(0,0,0, 0.1);
+}
+.final{
+    position: fixed;
+    text-align: center;
+    bottom: 0px;
+    left: 0;
+    right: 0;
+    padding: 10px;
+    background-color: #25aff9;
+
+}
+.botones{
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    display: flex;
+
+
+}
+.boton-redirección{
+    
+    background-color: #496cdd;
+    color: black;
+    padding: 30px 20px;
+    display: inline-block;
+    margin-top: 20px;
+    margin-right: 10px;
+    border-radius: 20px;
+    text-decoration: none;
+}
+.boton-sobremi{
+    
+    background-color: #496cdd;
+    color: black;
+    padding: 30px 20px;
+    display: inline-block;
+    margin-top: 20px;
+    margin-right: 10px;
+    border-radius: 20px;
+    text-decoration: none;
+}
+.boton-carrera{
+    
+    background-color: #496cdd;
+    color: black;
+    padding: 30px 20px;
+    display: inline-block;
+    margin-top: 20px;
+    margin-right: 10px;
+    border-radius: 20px;
+    text-decoration: none;
+}
+.boton-asociados{
+    
+    background-color: #496cdd;
+    color: black;
+    padding: 30px 20px;
+    display: inline-block;
+    margin-top: 20px;
+    margin-right: 10px;
+    border-radius: 20px;
+    text-decoration: none;
+}
+.boton-contactos{
+    
+    background-color: #496cdd;
+    color: black;
+    padding: 30px 20px;
+    display: inline-block;
+    margin-top: 20px;
+    border-radius: 20px;
+    text-decoration: none;
+}
